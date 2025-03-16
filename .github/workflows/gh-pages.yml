@@ -6,8 +6,9 @@ on:
       # The branch where the project source code resides
       # 项目源代码所在的分支
       - main
-      - master
-      - valaxy
+      # - master
+      # - valaxy
+      - gh-pages
 
 jobs:
   build:
