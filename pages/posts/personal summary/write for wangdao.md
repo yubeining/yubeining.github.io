@@ -1,5 +1,5 @@
 ---
-title: Hello, Valaxy!
+title: 给王道写的
 date: 2022-04-01
 updated: 2022-04-01
 categories: Valaxy 笔记
