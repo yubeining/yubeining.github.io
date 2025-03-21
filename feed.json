@@ -1,0 +1,170 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yu Beining",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "Personal website of YuBeining",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "预备铃",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>求职应该选择大厂还是小厂</h2>\n<h3>起因</h3>\n<p>上上周，有个同学来找我，他说自己在startup干了两年，觉得还是要去大厂，准备写简历和面试。<br>\n我说你现在这家公司不是挺好的么，在云服务的细分领域做</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company\" target=\"_blank\">https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company",
+            "title": "求职应该选择大公司还是小公司",
+            "date_modified": "2025-03-21T00:00:00.000Z",
+            "date_published": "2025-03-31T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>先回答几个问题</h2>\n<h3>1、什么是内容（定位）？</h3>\n<p>*心得体会、感受</p>\n<p>*项目的展示、描述</p>\n<p>*技术发展路线分享、设备分享、项目复盘</p>\n<p>*随笔vlog（）</p>\n<h3>2、谁给你钱？</h3>\n<p>*自然</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/we media/why do we media\" target=\"_blank\">https://valaxy.site/posts/we media/why do we media</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/we media/why do we media",
+            "title": "为什么要做自媒体",
+            "date_modified": "2025-03-01T00:00:00.000Z",
+            "date_published": "2025-03-18T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/beining-test1\" target=\"_blank\">https://valaxy.site/posts/beining-test1</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/beining-test1",
+            "title": "贝宁测试1",
+            "date_modified": "2025-03-16T00:00:00.000Z",
+            "date_published": "2025-03-16T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>总结过去的一岁</h2>\n<p>时光荏苒，我已走过生命中的两轮，我是不怎么过生日的，趁这个时候，写一些对自己说的话。<br>\n过去的一年，算是我人生中最丰富多彩的一年。工作方面，业务逐渐上手，对技术有了一定的理解和运</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/personal summary/24th-birthday-summary\" target=\"_blank\">https://valaxy.site/posts/personal summary/24th-birthday-summary</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/personal summary/24th-birthday-summary",
+            "title": "24岁总结",
+            "date_modified": "2025-01-12T00:00:00.000Z",
+            "date_published": "2025-01-12T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>自我介绍</h2>\n<p>面试官你好，我叫虞贝宁，我是苏州大学23届毕业的一名本科生。在校期间学习了java、web开发相关的课程，也去到互联网企业进行java后端开发的实习和工作。我的经历主要有三部分：金智</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes\" target=\"_blank\">https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes",
+            "title": "进阿里之前的行为面试笔记",
+            "date_modified": "2023-11-23T00:00:00.000Z",
+            "date_published": "2023-11-29T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>公司选择</h2>\n<p>不要去外包公司、不要一开始做产品经理，就算一开始做，也要去大厂</p>\n<p>不要做ai、算法方向的东西（大坑）</p>\n<h2>技术栈</h2>\n<p>java技术栈很多，都要学习</p>\n<p>前端的东西会使用就可</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job\" target=\"_blank\">https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job",
+            "title": "计算机求职建议",
+            "date_modified": "2023-07-01T00:00:00.000Z",
+            "date_published": "2023-07-01T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>吉他型号区别</h2>\n<p>美标：已经停产 不要</p>\n<p>美特：不要</p>\n<p>美演奏家：涨价幅度高</p>\n<p>四个最重要的系列：</p>\n<p>美专2:13k-17k</p>\n<p>柔和、复古和现代中取一个中间值</p>\n<p>C型琴颈</p>\n<p>美源：</p>\n<p>纯正</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/guitar/fender america\" target=\"_blank\">https://valaxy.site/posts/guitar/fender america</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/guitar/fender america",
+            "title": "fender美产系列",
+            "date_modified": "2023-06-20T00:00:00.000Z",
+            "date_published": "2023-06-20T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>本地生活行业</h2>\n<h3>消费者</h3>\n<p>消费者对便宜的东西锱铢必较——精明</p>\n<p>在抖音上的消费更多的是没有经过思考的冲动消费——盲目</p>\n<p>大数据+算法分析消费者的使用偏好，预测并向其推荐感兴趣的内容</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/career planning/career essay/local life\" target=\"_blank\">https://valaxy.site/posts/career planning/career essay/local life</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/career planning/career essay/local life",
+            "title": "本地生活",
+            "date_modified": "2023-05-29T00:00:00.000Z",
+            "date_published": "2023-05-29T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>量化金融</h2>\n<p>学历要求 985本</p>\n<p>有的需要C++做底层开发</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer\" target=\"_blank\">https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer",
+            "title": "量化金融算法工程师",
+            "date_modified": "2023-05-29T00:00:00.000Z",
+            "date_published": "2023-05-29T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>产品经理</h2>\n<p>做产品设计 技术实现由工程师完成</p>\n<p>设计产品的功能和发展思路，还有设置各种数据埋点，通过数据报表改进产品</p>\n<p>比如进行APP页面的改版，产品经理就要给出改版的思路，比如每一个按钮每个</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/career planning/industry essay/product manager\" target=\"_blank\">https://valaxy.site/posts/career planning/industry essay/product manager</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/career planning/industry essay/product manager",
+            "title": "产品经理",
+            "date_modified": "2023-05-29T00:00:00.000Z",
+            "date_published": "2023-05-29T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/personal summary/write for wangdao\" target=\"_blank\">https://valaxy.site/posts/personal summary/write for wangdao</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/personal summary/write for wangdao",
+            "title": "给王道写的",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/study notes/java base knowledge/java1\" target=\"_blank\">https://valaxy.site/posts/study notes/java base knowledge/java1</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/study notes/java base knowledge/java1",
+            "title": "java1",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "预备铃",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
