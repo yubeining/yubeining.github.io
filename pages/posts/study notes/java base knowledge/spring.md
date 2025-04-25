@@ -96,14 +96,16 @@ java一般采用JDK动态代理，但是JDK动态代理只能代理接口而不�
 
 配置AOP代理、编写切点表达式
 
-
-
-
-
-
+ 
 
 ### 3、bean的生命周期
-
+从创建到销毁的整个过程
+1、实例化：通过反射获取构造函数
+2、属性赋值：解析自动装配 byname bytype constractor autowired
+这个阶段解决了循环依赖的问题
+3、初始化：调用xxxaware方法  调用初始化生命周期回调  如果bean实现aop 创建动态代理
+4、销毁： 在spring容器关闭的时候进行调用 调用销毁生命周期回调  
+ 
 #### 传统的java应用
 
 生命周期很简单，使用java关键字new 进行 bean 的实例化，然后该bean就能够使用。bean不再使用时，进行垃圾回收
@@ -136,7 +138,9 @@ spring没有对bean做任何安全处理，在无状态时是线程安全的，�
 
 3、使用线程安全的数据结构：concurrentHashMap
 
-
+#### 紧耦合和松耦合的区别
+紧耦合：类之间高度依赖
+松耦合：通过促进单一职责和关注点分离、依赖倒置的设计原则来实现
 
 
 
@@ -175,6 +179,9 @@ spring没有对bean做任何安全处理，在无状态时是线程安全的，�
 ### 6、IOC的工作流程 
 
 IOC控制反转，把对象的管理权限交给了容器，应用程序如果需要某个对象的实例，直接从IOC容器中获取
+本来需要new Service 需要程序员自己创建，现在交给Spring的ioc去创建
+
+优点：集中管理对象、方便维护、降低耦合度
 
 工作流程：
 
@@ -189,7 +196,7 @@ IOC控制反转，把对象的管理权限交给了容器，应用程序如果�
 5、提供bean：提供了统一的接口，可以通过容器来获取bean的实例并使用
 
 6、AOP增强：对bean进行增强和横向切面的功能
-
+ 
 
 
 ### 7、循环依赖问题
@@ -308,7 +315,7 @@ spring事务的传播机制是基于数据库连接的，一个数据库连接�
 
 
 
-### 11、spring配置文件
+### 11、spring配置文件 
 
 #### xml配置文件
 
@@ -323,7 +330,30 @@ spring事务的传播机制是基于数据库连接的，一个数据库连接�
 
 
 
+### 12、IOC和DI的区别
+ioc：由spring来创建对象，维护对象的关系
+di：spring注入才能实现控制反转，di是ioc的实现
 
+### 13、beanfactory的作用
+主要职责是生产bean，通过调用getBean传入标识生产一个bean
+
+
+### 13、beandefinition的作用
+主要负责存储bean的定义信息：决定bean的生产方式
+比如根据xml文件来生产bean
+lazy，则不会在ioc加载的时候创建bean
+
+### 14、beanfactory和applicationContext的区别
+ 都可以管理bean的生命周期
+ applicationContext实现了beanfactory
+ 不生产bean而是通知 factoryBean来进行生产
+applicationContext
+1、会自动帮我把配置的bean注册进来
+2、加载环境变量
+3、实现事件监听
+4、注册很多对外扩展点
+beanfactory
+优点：内存占用率小 
 
 
 # springmvc
@@ -331,7 +361,6 @@ spring事务的传播机制是基于数据库连接的，一个数据库连接�
 ### 1、mvc模式 Model — View — Controler
 
 模型-视图-控制器，是springframework中的一个模块
-
 
 
 model：程序主体部分。主要包含业务数据和业务逻辑，可拆分成拆分成业务层service和数据访问层repository。
