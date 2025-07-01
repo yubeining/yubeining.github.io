@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yu Beining</title>
+        <link>https://valaxy.site/</link>
+        <description>Personal website of YuBeining</description>
+        <lastBuildDate>Tue, 01 Jul 2025 16:48:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Yu Beining</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://valaxy.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 预备铃</copyright>
+        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[web3项目和招聘网站汇总]]></title>
+            <link>https://valaxy.site/posts/study notes/web3/web3项目和招聘网站汇总</link>
+            <guid>https://valaxy.site/posts/study notes/web3/web3项目和招聘网站汇总</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>web3 常用投递渠道 仁科老师分享</h3>
+<p>主要看前两个网站 中文的<br>
+<a href="https://bcnw9yifjxpv.feishu.cn/wiki/Virnw2OyzinlnjkxsDucBruHnG">https://bcnw9yifjxpv.feishu.cn/wiki/Virnw2OyzinlnjkxsDucBruHnG</a></p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/web3/web3项目和招聘网站汇总" target="_blank">https://valaxy.site/posts/study notes/web3/web3项目和招聘网站汇总</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[转行进入web3注意事项]]></title>
+            <link>https://valaxy.site/posts/study notes/web3/个人注意事项</link>
+            <guid>https://valaxy.site/posts/study notes/web3/个人注意事项</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>如何办理个体户营业执照</p>
+<p>年销售额&lt;=120万可享受增值税和个人所得税双免政策</p>
+<p>以劳务报酬进行结算，可以节省税费</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/web3/个人注意事项" target="_blank">https://valaxy.site/posts/study notes/web3/个人注意事项</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[交易所情况]]></title>
+            <link>https://valaxy.site/posts/study notes/ai/交易所情况</link>
+            <guid>https://valaxy.site/posts/study notes/ai/交易所情况</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>1、工作时间<br>
+大部分8小时 早10晚6 不加班</p>
+<p>2、有没有oncall、线上问题处理<br>
+有 但是比大厂来说要少很多</p>
+<p>3、国人多的地方就比较卷，特别是大厂高管空降<br>
+比如欧易就很卷</p>
+<p>4、还是看部门，</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/ai/交易所情况" target="_blank">https://valaxy.site/posts/study notes/ai/交易所情况</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[docker]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/docker</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/docker</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Docker</h1>
+<h3>1、使用docker的好处</h3>
+<p>容器化技术，可以将应用程序及其依赖项打包到一个轻量级、可移植的容器中。</p>
+<h4>环境一致性</h4>
+<p>包含应用程序及其所有依赖项，确保在不同环境</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/docker" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/docker</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[java基础]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/java basic knowledge</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/java basic knowledge</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>基础知识</h2>
+<h3>1、面向对象、面向过程</h3>
+<h4>区别</h4>
+<p>面向过程：实现函数开发的</p>
+<p>面向对象：一种编程指导思想，将具体的实物抽象为类并具有属性和方法，通过实例化完成功能</p>
+<p>分别从业务、设计</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/java basic knowledge" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/java basic knowledge</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[java io]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/java io</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/java io</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Java IO 线程 并发</h1>
+<h3>1、NIO、BIO、AIO</h3>
+<h4>BIO blocking</h4>
+<p>传统的阻塞模型，基于流的方式进行数据的读写。当一个线程调用输入输出进行操作时，它会被阻</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/java io" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/java io</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[java jvm]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/java jvm</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/java jvm</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>JVM</h1>
+<h3>1、jvm内存区域分布</h3>
+<h4>程序计数器</h4>
+<p>保存着当前线程所执行的字节码指令的地址。每个线程都有一个独立的程序计数器，用于控制线程的执行流程。</p>
+<p>因为JVM的多线程是通过</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/java jvm" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/java jvm</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[java 异常]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/java 异常</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/java 异常</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>异常</h1>
+<h3>1、Error和Exception 区别</h3>
+<p>Error类和Exception类的父类都是Throwable类</p>
+<h4>Error类</h4>
+<p>一般是系统、jvm的问题。</p>
+<p>如：系统崩</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/java 异常" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/java 异常</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[mq]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/mq</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/mq</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>MQ</h1>
+<h3>1、使用MQ场景</h3>
+<h4>异步任务处理</h4>
+<p>当项目需要处理一些耗时的任务。通过将任务放入消息队列中，让应用程序快速响应请求，并将任务交给后台的工作线程来处理</p>
+<h4>解耦系</h4>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/mq" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/mq</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[mysql]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/mysql</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/mysql</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>MySql</h1>
+<h3>1、数据库优化</h3>
+<p>1、使用合适的索引：创建适当的索引，可以加快查询速度和提高数据库性能</p>
+<p>2、优化sql查询语句</p>
+<p>3、调整数据库参数：内存缓冲区大小、并发连接数等</p>
+<p>4、</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/mysql" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/mysql</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[redis]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/redis</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/redis</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Redis</h1>
+<h3>1、内存淘汰策略</h3>
+<p>LRU（最近最少使用）：优先淘汰最长时间未被使用的键</p>
+<p>LFU（最不经常使用）：优先淘汰使用频率最低的键</p>
+<p>TTL：为键设置过期时间，过期后自动淘汰</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/redis" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/redis</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[rpc]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/rpc</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/rpc</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>RPC框架项目</h1>
+<h2>目标是实现方法的远程调用</h2>
+<h2>rpc</h2>
+<p>rpc三个核心consumer、provider、register</p>
+<p>consumer经过注册中心调用provider中的方法</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/rpc" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/rpc</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[spring]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/spring</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/spring</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Spring</h1>
+<h3>1、介绍spring框架</h3>
+<h4>概念</h4>
+<p>spring：是整个生态，spring framework是整个spring生态的基石，为依赖注入、事务管理、web应用、数</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/spring" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/spring</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[tomcat]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/tomcat</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/tomcat</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/tomcat" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/tomcat</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[分布式]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/分布式</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/分布式</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>分布式</h1>
+<h3>1、分布式锁</h3>
+<h4>使用原因</h4>
+<p>保证同一时间只有一个JVM进程可以对共享资源进行操作</p>
+<p>实现方式  mysql、redis、redission、zk</p>
+<h4>mysq</h4>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/分布式" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/分布式</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[计算机网络]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/计算机网络</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/计算机网络</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>计算机网络</h1>
+<h3>1、三次握手、两次握手不行</h3>
+<p>第⼀次握⼿：客户端给服务器发送⼀个 SYN 报⽂。</p>
+<p>客户端处于SYN_SEND状态</p>
+<p>第⼆次握⼿：服务器收到 SYN 报⽂之后，会应答⼀个</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/计算机网络" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/计算机网络</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[设计模式]]></title>
+            <link>https://valaxy.site/posts/study notes/java base knowledge/设计模式</link>
+            <guid>https://valaxy.site/posts/study notes/java base knowledge/设计模式</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>设计模式</h1>
+<h3>1、单例模式</h3>
+<p>确保一个类只有一个实例，并提供全局访问点</p>
+<h4>如何防止反射或者反序列化攻击</h4>
+<p>防止反射：在单例类的构造函数中添加一个检查，如果已经存在实例，则抛出</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/java base knowledge/设计模式" target="_blank">https://valaxy.site/posts/study notes/java base knowledge/设计模式</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[交易所情况]]></title>
+            <link>https://valaxy.site/posts/study notes/web3/交易所情况</link>
+            <guid>https://valaxy.site/posts/study notes/web3/交易所情况</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>1、工作时间<br>
+大部分8小时 早10晚6 不加班</p>
+<p>2、有没有oncall、线上问题处理<br>
+有 但是比大厂来说要少很多</p>
+<p>3、国人多的地方就比较卷，特别是大厂高管空降<br>
+比如欧易就很卷</p>
+<p>4、还是看部门，</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/web3/交易所情况" target="_blank">https://valaxy.site/posts/study notes/web3/交易所情况</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[flink]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/flink任务</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/flink任务</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Apache Flink 是一种用于构建实时、批处理和流处理的统一架构。它采用迭代算法来实现流处理，允许用户以事件流的形式处理数据。</p>
+<p>Flink 的基本思想是通过事件的时间戳或者在指定条件下触发一</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/flink任务" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/flink任务</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[serverless平台]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/serverless平台</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/serverless平台</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>承载搜推广业务，通用的jvm代码开发和托管平台，只需要实现业务逻辑参数，不需要关心机器资源申请</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/serverless平台" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/serverless平台</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[推荐工程架构]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/在线igraph</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/在线igraph</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/在线igraph" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/在线igraph</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[埋点]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/埋点</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/埋点</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>概念<br>
+收集流量信息，追踪应用使用情况，从而进一步优化产品、算法、运营决策</p>
+<p>有客户端埋点和服务端埋点两种方式<br>
+客户端埋点是指在客户端中嵌入代码，用于收集用户行为数据（点击、浏览、搜索等），并将其发送</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/埋点" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/埋点</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[平台化]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/平台化</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/平台化</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/平台化" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/平台化</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[广告相关知识]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/广告</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/广告</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/广告" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/广告</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[推荐工程架构]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/推荐工程架构</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/推荐工程架构</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>混排层架构：<br>
+从业务上来说，混排层是对商品的类做加工处理、对算法侧的多路召回、对商品进行重新排序、指定一系列的透出与展示规则 展现在端上完整的商品卡片，包含商卡的图片、标题、销量、前标、氛围等素材</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/推荐工程架构" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/推荐工程架构</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[推荐引擎]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/推荐引擎</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/推荐引擎</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>searcher是一种推荐系统的组件，负责执行多路召回以及去重合并排序等操作，并将结果返回给调用方。在非图化版本中，searcher是一个sorter，即对不同的match type的返回结果进行排</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/推荐引擎" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/推荐引擎</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[搜索工程架构]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/搜索工程架构</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/搜索工程架构</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/搜索工程架构" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/搜索工程架构</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[离线odps任务]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/离线odps任务</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/离线odps任务</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/离线odps任务" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/离线odps任务</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[稳定性]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/稳定性</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/稳定性</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>大促的稳定性保证</h3>
+<p>主要是大促的时候，会有流量的高峰<br>
+需要提前预估流量，这个是根据过往大促的流量峰值来预估的<br>
+因为推荐这一块，有很多服务方在调用</p>
+<h4>线上问题如何解决</h4>
+<p>cas</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/稳定性" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/稳定性</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[负向治理]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/负向治理</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/负向治理</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>负向治理分为几部分</p>
+<p>背景：增强推荐商品的相关性，减少用户负向的商品，将不相关的商品从底池去除</p>
+<p>业务其实非常多，我选三个重点的来讲<br>
+1、用户端上点击负反馈<br>
+链路：用户从端上点击负反馈，客户端去调用</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/负向治理" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/负向治理</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[运营侧视角看推荐]]></title>
+            <link>https://valaxy.site/posts/study notes/搜推广项目/运营侧视角看推荐</link>
+            <guid>https://valaxy.site/posts/study notes/搜推广项目/运营侧视角看推荐</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>小二侧<br>
+如果小二需要组织一个活动，需要配置一系列的招商规则，从5个方向来看<br>
+1、规则域<br>
+小二针对活动，设置一些过滤的条件，比如要求差评率必须低于1%<br>
+2、权限域<br>
+相关活动的负责人<br>
+3、素材域<br>
+补充一</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/搜推广项目/运营侧视角看推荐" target="_blank">https://valaxy.site/posts/study notes/搜推广项目/运营侧视角看推荐</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[行为面试题]]></title>
+            <link>https://valaxy.site/posts/study notes/行为面试题/行为面试</link>
+            <guid>https://valaxy.site/posts/study notes/行为面试题/行为面试</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>自我介绍</h2>
+<p>面试官你好，我叫虞贝宁，我是苏州大学23届毕业的一名本科生。在阿里淘天集团做推荐工程侧相关的业务，做java后端开发，目前从事这方面有大概2年的经历，至今在职。我的工作内容包含推荐</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/study notes/行为面试题/行为面试" target="_blank">https://valaxy.site/posts/study notes/行为面试题/行为面试</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[求职应该选择大公司还是小公司]]></title>
+            <link>https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company</link>
+            <guid>https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>求职应该选择大厂还是小厂</h2>
+<h3>起因</h3>
+<p>上上周，有个同学来找我，他说自己在startup干了两年，觉得还是要去大厂，准备写简历和面试。<br>
+我说你现在这家公司不是挺好的么，在云服务的细分领域做</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company" target="_blank">https://valaxy.site/posts/career planning/career essay/Should I choose a large company or a small company</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[对ai音乐的浅识]]></title>
+            <link>https://valaxy.site/posts/ai music/a basic understanding of ai music</link>
+            <guid>https://valaxy.site/posts/ai music/a basic understanding of ai music</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>ai音乐大模型现状</h3>
+<p>现在是2025年，在suno火了两年后，再来看这个行业，自己又有了一些认识。<br>
+近两年，suno、udio火出圈之后，感慨现在生成式大模型的强大。虽然大多数ai音乐在听感上</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/ai music/a basic understanding of ai music" target="_blank">https://valaxy.site/posts/ai music/a basic understanding of ai music</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[ai音乐市场的机会]]></title>
+            <link>https://valaxy.site/posts/ai music/chance of ai music</link>
+            <guid>https://valaxy.site/posts/ai music/chance of ai music</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>机会</h3>
+<p>首先，我希望的ai音乐能对音乐的创作产生价值，有以下几个方面：<br>
+1、挖掘好的动机、旋律<br>
+2、减少编曲工程中大量的重复建设性工作<br>
+3、对输入的音乐音频文本准确分析，能给出评价和建议</p>
+<p>我</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/ai music/chance of ai music" target="_blank">https://valaxy.site/posts/ai music/chance of ai music</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[我理想的生活是怎么样的]]></title>
+            <link>https://valaxy.site/posts/career planning/plannning/What would my ideal life look like</link>
+            <guid>https://valaxy.site/posts/career planning/plannning/What would my ideal life look like</guid>
+            <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>我理想的生活</h3>
+<p>有必要说明一下，这是我2025年所理想的生活。<br>
+其实知道自己生活的下限不会比较低，有自己的工作、独立生活，一个月赚2w多，也没有什么大的花销。<br>
+平时周末看看演出，有空去旅旅游</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/plannning/What would my ideal life look like" target="_blank">https://valaxy.site/posts/career planning/plannning/What would my ideal life look like</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[为什么要做自媒体]]></title>
+            <link>https://valaxy.site/posts/we media/why do we media</link>
+            <guid>https://valaxy.site/posts/we media/why do we media</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>先回答几个问题</h2>
+<h3>1、什么是内容（定位）？</h3>
+<p>*心得体会、感受</p>
+<p>*项目的展示、描述</p>
+<p>*技术发展路线分享、设备分享、项目复盘</p>
+<p>*随笔vlog（）</p>
+<h3>2、谁给你钱？</h3>
+<p>*自然</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/we media/why do we media" target="_blank">https://valaxy.site/posts/we media/why do we media</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[24岁总结]]></title>
+            <link>https://valaxy.site/posts/personal summary/24th-birthday-summary</link>
+            <guid>https://valaxy.site/posts/personal summary/24th-birthday-summary</guid>
+            <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>总结过去的一岁</h2>
+<p>时光荏苒，我已走过生命中的两轮，我是不怎么过生日的，趁这个时候，写一些对自己说的话。<br>
+过去的一年，算是我人生中最丰富多彩的一年。工作方面，业务逐渐上手，对技术有了一定的理解和运</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/personal summary/24th-birthday-summary" target="_blank">https://valaxy.site/posts/personal summary/24th-birthday-summary</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[进阿里之前的行为面试笔记]]></title>
+            <link>https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes</link>
+            <guid>https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>自我介绍</h2>
+<p>面试官你好，我叫虞贝宁，我是苏州大学23届毕业的一名本科生。在校期间学习了java、web开发相关的课程，也去到互联网企业进行java后端开发的实习和工作。我的经历主要有三部分：金智</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes" target="_blank">https://valaxy.site/posts/interview notes/20231120-behavioral-interview-notes</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[计算机求职建议]]></title>
+            <link>https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job copy</link>
+            <guid>https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job copy</guid>
+            <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>公司选择</h2>
+<p>不要去外包公司、不要一开始做产品经理，就算一开始做，也要去大厂</p>
+<p>不要做ai、算法方向的东西（大坑）</p>
+<h2>技术栈</h2>
+<p>java技术栈很多，都要学习</p>
+<p>前端的东西会使用就可</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job copy" target="_blank">https://valaxy.site/posts/career planning/plannning/suggestions of looking for a computer job copy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[fender美产系列]]></title>
+            <link>https://valaxy.site/posts/guitar/fender america</link>
+            <guid>https://valaxy.site/posts/guitar/fender america</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>吉他型号区别</h2>
+<p>美标：已经停产 不要</p>
+<p>美特：不要</p>
+<p>美演奏家：涨价幅度高</p>
+<p>四个最重要的系列：</p>
+<p>美专2:13k-17k</p>
+<p>柔和、复古和现代中取一个中间值</p>
+<p>C型琴颈</p>
+<p>美源：</p>
+<p>纯正</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/guitar/fender america" target="_blank">https://valaxy.site/posts/guitar/fender america</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[本地生活]]></title>
+            <link>https://valaxy.site/posts/career planning/career essay/local life</link>
+            <guid>https://valaxy.site/posts/career planning/career essay/local life</guid>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>本地生活行业</h2>
+<h3>消费者</h3>
+<p>消费者对便宜的东西锱铢必较——精明</p>
+<p>在抖音上的消费更多的是没有经过思考的冲动消费——盲目</p>
+<p>大数据+算法分析消费者的使用偏好，预测并向其推荐感兴趣的内容</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/career essay/local life" target="_blank">https://valaxy.site/posts/career planning/career essay/local life</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[量化金融算法工程师]]></title>
+            <link>https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer</link>
+            <guid>https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer</guid>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>量化金融</h2>
+<p>学历要求 985本</p>
+<p>有的需要C++做底层开发</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer" target="_blank">https://valaxy.site/posts/career planning/industry essay/Quantitative Financial Algorithm Engineer</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[产品经理]]></title>
+            <link>https://valaxy.site/posts/career planning/industry essay/product manager</link>
+            <guid>https://valaxy.site/posts/career planning/industry essay/product manager</guid>
+            <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>产品经理</h2>
+<p>做产品设计 技术实现由工程师完成</p>
+<p>设计产品的功能和发展思路，还有设置各种数据埋点，通过数据报表改进产品</p>
+<p>比如进行APP页面的改版，产品经理就要给出改版的思路，比如每一个按钮每个</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/career planning/industry essay/product manager" target="_blank">https://valaxy.site/posts/career planning/industry essay/product manager</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://valaxy.site/posts/hello-valaxy</link>
+            <guid>https://valaxy.site/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+        <item>
+            <title><![CDATA[给王道写的]]></title>
+            <link>https://valaxy.site/posts/personal summary/write for wangdao</link>
+            <guid>https://valaxy.site/posts/personal summary/write for wangdao</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/personal summary/write for wangdao" target="_blank">https://valaxy.site/posts/personal summary/write for wangdao</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (预备铃)</author>
+        </item>
+    </channel>
+</rss>
